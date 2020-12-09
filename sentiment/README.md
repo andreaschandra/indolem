@@ -9,6 +9,11 @@ The data is sourced from 1) Twitter [(Koto and Rahmaningtyas, 2017)](https://www
 and 2) [hotel reviews](https://github.com/annisanurulazhar/absa-playground/).
 
 The experiment is based on 5-fold cross validation. The splits are provided in `data/`
+
+## Install requirements
+```
+pip install -r requirements.txt
+```
 ## Running baselines
 #### Naive Bayes and Logistic Regression:
 ```
