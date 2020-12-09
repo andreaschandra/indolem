@@ -14,6 +14,12 @@ pyrouge==0.1.3
 tensorboardX==2.1
 ```
 
+To install the requirements
+```
+pip install -r requirements.txt
+```
+
+
 ## Experiment
 
 1. First, download the data [here](https://drive.google.com/file/d/1OgYbPfXFAv3TbwP1Qcwt_CC9cVWSJaco/view) and put the them (all folds) in folder `data/`
