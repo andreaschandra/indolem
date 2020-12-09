@@ -13,6 +13,11 @@ candidates in the training and test sets.
 * Test: 1890 threads
 
 
+## Install requirements
+```
+pip install -r requirements.txt
+```
+
 ## Running baselines
 
 Please download indonesian fasttext embedding ([cc.id.300.vec](https://fasttext.cc/docs/en/crawl-vectors.html)).
